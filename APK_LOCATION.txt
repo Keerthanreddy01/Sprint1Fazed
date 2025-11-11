@@ -1,0 +1,57 @@
+===========================================
+FILLORA.IN - APK FILE LOCATION
+===========================================
+
+Your APK file is located at:
+
+PRIMARY LOCATION:
+C:\Users\keert\Downloads\Fillora\Fillora\build\app\outputs\flutter-apk\app-release.apk
+
+EASY ACCESS LOCATION (Copied):
+C:\Users\keert\Downloads\Fillora\Fillora-APK\fillora.apk
+
+===========================================
+APK DETAILS:
+===========================================
+File Name: app-release.apk (or fillora.apk)
+File Size: ~57.4 MB
+Version: 1.0.0+1
+Platform: Android
+Minimum Android: 5.0 (API 21)
+
+===========================================
+HOW TO ACCESS:
+===========================================
+
+Method 1: File Explorer
+1. Open File Explorer
+2. Navigate to: C:\Users\keert\Downloads\Fillora\Fillora-APK\
+3. You'll see: fillora.apk
+
+Method 2: Direct Path
+Copy this path and paste in File Explorer address bar:
+C:\Users\keert\Downloads\Fillora\Fillora-APK
+
+Method 3: Original Location
+C:\Users\keert\Downloads\Fillora\Fillora\build\app\outputs\flutter-apk\app-release.apk
+
+===========================================
+TO INSTALL ON PHONE:
+===========================================
+1. Transfer the APK file to your Android phone
+2. Enable "Install from Unknown Sources" in Settings
+3. Tap the APK file on your phone
+4. Follow installation prompts
+
+===========================================
+TO SHARE/UPLOAD:
+===========================================
+The APK file can be:
+- Uploaded to Google Drive
+- Uploaded to Dropbox
+- Uploaded to GitHub Releases
+- Hosted on your website
+- Shared via email or messaging apps
+
+===========================================
+
